@@ -1,7 +1,7 @@
 # Employee_Dashboard
 
-To view the "Employee Dashboard" in Power BI, click the following link: 
+This Power BI dashboard provides analytics for your employee dataset, helping you make data-driven decisions about your workforce. The dashboard includes several visualizations and insights to help you better understand your employee data.
 
-<iframe title="Employee Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiM2UzMGZiYmQtODA3Yi00MzY5LTk2MmQtZjU1NjIwYjA5MmU5IiwidCI6IjJiNzczZDk5LWYyMjktNDcwNC1iNTYyLTVhMzE5ODgzMTc3OSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+To view the "Employee Dashboard" in Power BI, click the following image: 
 
-👉Note: You may need to sign in to Power BI to view the dashboard.
+[![Power BI](https://user-images.githubusercontent.com/74459082/235809521-2b2abe71-a56e-4c94-8bc7-04aff363fece.png)](https://app.powerbi.com/view?r=eyJrIjoiM2UzMGZiYmQtODA3Yi00MzY5LTk2MmQtZjU1NjIwYjA5MmU5IiwidCI6IjJiNzczZDk5LWYyMjktNDcwNC1iNTYyLTVhMzE5ODgzMTc3OSIsImMiOjh9)
